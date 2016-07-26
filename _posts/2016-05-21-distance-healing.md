@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Distance Healing
-datePublished: '2016-07-20T01:03:21.654Z'
-dateModified: '2016-05-31T17:43:02.203Z'
+datePublished: '2016-07-26T22:34:58.519Z'
+dateModified: '2016-07-20T01:03:28.072Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-distance-healing.md
