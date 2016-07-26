@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Down To Reiki!]]></title>
         <description><![CDATA[Down To Reiki!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/down-to-reiki/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 01:03:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 22:34:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/down-to-reiki/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3304ec4-e781-416e-83c5-1ea0eea0b4d0.png">]]></description>
+            <link>https://thegrid.ai/down-to-reiki/7fd16b59-cd3a-438e-b3ab-efa57307c3cd/index.html</link>
+            <guid isPermaLink="false">7fd16b59-cd3a-438e-b3ab-efa57307c3cd</guid>
+            <pubDate>Tue, 26 Jul 2016 22:34:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Distance Healing]]></title>
             <description><![CDATA[<p>Distance Healing</p>]]></description>
-            <link>undefineddistance-healing/index.html</link>
+            <link>https://thegrid.ai/down-to-reiki/distance-healing/index.html</link>
             <guid isPermaLink="false">c800fdeb-c410-4bf3-869b-79f25bdf9912</guid>
             <pubDate>Wed, 20 Jul 2016 01:03:21 GMT</pubDate>
         </item>
